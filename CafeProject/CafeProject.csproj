@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{698AA14D-DB79-44A4-8C03-A0EF2966249B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CafeProject</RootNamespace>
+    <AssemblyName>CafeProject</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DbProcess.cs" />
+    <Compile Include="frmAsciAyarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsciAyarlar.Designer.cs">
+      <DependentUpon>frmAsciAyarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdmin.Designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminPaneli.Designer.cs">
+      <DependentUpon>frmAdminPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsci.Designer.cs">
+      <DependentUpon>frmAsci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAyarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAyarlar.Designer.cs">
+      <DependentUpon>frmAyarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKategori.Designer.cs">
+      <DependentUpon>frmKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMasaAtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMasaAtama.Designer.cs">
+      <DependentUpon>frmMasaAtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteri.Designer.cs">
+      <DependentUpon>frmMusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProfil.Designer.cs">
+      <DependentUpon>frmProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProfilGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProfilGuncelleme.Designer.cs">
+      <DependentUpon>frmProfilGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUrunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUrunler.Designer.cs">
+      <DependentUpon>frmUrunler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GarsonEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GarsonEkrani.Designer.cs">
+      <DependentUpon>GarsonEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GarsonGuncellemeEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GarsonGuncellemeEkrani.Designer.cs">
+      <DependentUpon>GarsonGuncellemeEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminPaneli.resx">
+      <DependentUpon>frmAdminPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsci.resx">
+      <DependentUpon>frmAsci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsciAyarlar.resx">
+      <DependentUpon>frmAsciAyarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAyarlar.resx">
+      <DependentUpon>frmAyarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKategori.resx">
+      <DependentUpon>frmKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMasaAtama.resx">
+      <DependentUpon>frmMasaAtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProfil.resx">
+      <DependentUpon>frmProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProfilGuncelleme.resx">
+      <DependentUpon>frmProfilGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUrunler.resx">
+      <DependentUpon>frmUrunler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GarsonEkrani.resx">
+      <DependentUpon>GarsonEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GarsonGuncellemeEkrani.resx">
+      <DependentUpon>GarsonGuncellemeEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="resimler\images.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

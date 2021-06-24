@@ -1,0 +1,164 @@
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmKategori.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\ŞEBNEM\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\ŞEBNEM\Documents\wissen\CafeProject\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\ŞEBNEM\Documents\wissen\CafeProject\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\ŞEBNEM\Documents\wissen\CafeProject\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmKategori.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.Form1.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.Form2.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmKategori.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.frmUrunler.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.GarsonEkrani.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.GarsonGuncellemeEkrani.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\CafeProject\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmKategori.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.frmUrunler.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.GarsonEkrani.resources
+C:\Users\wissen\Documents\GitHub\Cafe-Project\CafeProject\obj\Debug\CafeProject.GarsonGuncellemeEkrani.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmKategori.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.frmUrunler.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.GarsonEkrani.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.GarsonGuncellemeEkrani.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\wissen\Desktop\Yeni klasör\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmKategori.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.frmUrunler.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.GarsonEkrani.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.GarsonGuncellemeEkrani.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\wissen\Documents\Visual Studio 2012\Projects\Cafe Project\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.csproj.AssemblyReference.cache
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmAdmin.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmAdminPaneli.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmAsci.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmAsciAyarlar.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmAyarlar.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmLogin.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmKategori.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmMasaAtama.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmProfil.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmProfilGuncelleme.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.frmUrunler.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.GarsonEkrani.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.GarsonGuncellemeEkrani.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\Osman\Desktop\Cafe-Project-master\CafeProject\obj\Debug\CafeProject.pdb
